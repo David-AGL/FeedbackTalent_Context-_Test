@@ -67,7 +67,6 @@ npm run dev-full
 
 ## 📚 Documentación
 - `ATLAS-SETUP.md` - Configuración detallada de MongoDB Atlas
-- `SUSTENTACION.md` - Resumen para sustentación
 
 ---
 
