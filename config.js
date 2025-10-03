@@ -3,7 +3,7 @@ module.exports = {
   // Base de datos
   mongodb: {
     // String de conexión real de MongoDB Atlas
-    uri: process.env.MONGODB_URI || 'mongodb+srv://admin:dialga@cluster0.wkxhouu.mongodb.net/feedbackDB?retryWrites=true&w=majority&appName=Cluster0',
+    uri: process.env.MONGODB_URI || ,
     
     options: {
       useNewUrlParser: true,
